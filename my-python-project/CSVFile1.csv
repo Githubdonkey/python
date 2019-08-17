@@ -1,0 +1,19 @@
+ManagementPackId,MPFriendlyName,MPName,IP address,OS
+02,name2,name2.test.com,10.255.26.2,XP
+03,name3,name3.test.com,10.255.26.3,Server
+04,name4,name4.test.com,10.255.26.4,XP
+05,name5,name5.test.com,10.255.26.5,XP
+06,name6,name6.test.com,10.255.26.6,Win10
+07,name7,name7.test.com,10.255.26.7,XP
+08,name8,name8.test.com,10.255.26.8,XP
+09,name9,name9.test.com,10.255.26.9,XP
+01,name10,name10.test.com,10.255.26.10,Server
+11,name11,name11.test.com,10.255.26.11,XP
+12,name12,name12.test.com,10.255.26.12,XP
+13,name13,name13.test.com,10.255.26.13,XP
+14,name14,name14.test.com,10.255.26.14,XP
+15,name15,name15.test.com,10.255.26.15,XP
+16,name16,name16.test.com,10.255.26.16,Win10
+17,name17,name17.test.com,10.255.26.17,XP
+18,name18,name18.test.com,10.255.26.18,XP
+19,name19,name19.test.com,10.255.26.19,XP
